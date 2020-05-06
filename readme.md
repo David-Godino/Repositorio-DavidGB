@@ -1,3 +1,1 @@
-encontrar errores
-segunda linea
-linea 3
+# primera linea de un fichero README.md
